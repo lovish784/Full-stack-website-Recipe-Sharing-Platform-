@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Django / Flask specific
+*.log
+*.pot
+*.pyc
+
+# Database
+*.sqlite3
+*.db
+
+# Media / Static (optional, depending on your setup)
+media/
+staticfiles/
+
+# Environment variables
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Virtual environment
+venv/
+env/
